@@ -1,0 +1,5 @@
+pandas
+regex
+openpyxl
+fuzzywuzzy
+python-Levenshtein
